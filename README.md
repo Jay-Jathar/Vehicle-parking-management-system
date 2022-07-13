@@ -1,3 +1,3 @@
-# Mini-Projects-in-C++
+# Vehicle Parking Management System
 
-1) Vehicle Parking Management System
+This is command line code written in C++ language
